@@ -8,8 +8,10 @@
 
 
 ##写此的目的
+- 宣传前端大法好。
+- 适可而止的装逼。
 - 主张消除大众眼中前端和后台研发的差异化对待。
-- 给立志找到好工作的同志们打起，it is not so difficult as you thought.
+- 给立志找到好工作的同志们提供样本，it is not so difficult as you thought.
 - `重要的事情说三遍，前端不是做界面，前端不是做界面，前端不是做界面。`
 
 
